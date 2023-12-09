@@ -1,4 +1,4 @@
-# research_about_AIGC_and_NeRF(https://github.com/huzhenbang/research_about_AIGC_and_NeRF)
+# [research_about_AIGC_and_NeRF](https://github.com/huzhenbang/research_about_AIGC_and_NeRF)
 
 This is a curated list of the resources of research about AIGC and NeRF 
 
