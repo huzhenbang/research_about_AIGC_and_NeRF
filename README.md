@@ -16,6 +16,6 @@ Tast update time 2023-12-13.
 |2023-2-22|13|CVPR|[Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition](https://arxiv.org/abs/2302.11566)|[project page](https://moygcc.github.io/vid2avatar/)|
 |2023-5-27|5|arXiv|[Hi4D: 4D Instance Segmentation of Close Human Interaction](https://arxiv.org/abs/2303.15380)|[project page](https://yifeiyin04.github.io/Hi4D/)
 |2022-11-20|16|arXiv|[InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/abs/2212.10550)|[project page](https://tijiang13.github.io/InstantAvatar/)
-|2023-5-8|10|CVPR|[X-Avatar: Expressive Human Avatars](https://arxiv.org/abs/2303.04805)|[project page](https://yifeiyin04.github.io/Hi4D/)
+|2023-5-8|10|CVPR|[X-Avatar: Expressive Human Avatars](https://arxiv.org/abs/2303.04805)|[project page](https://skype-line.github.io/projects/X-Avatar/)
 |2023-5-23|1|arXiv|[Efficient Meshy Neural Fields for Animatable Human Avatars](https://arxiv.org/abs/2303.12965)|[project page](https://skype-line.github.io/projects/X-Avatar/)|
 |2023-11-4|0|arXiv|[GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://github.com/huliangxiao/GaussianAvatar)
