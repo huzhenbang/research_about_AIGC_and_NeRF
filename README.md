@@ -6,6 +6,7 @@ Tast update time 2023-12-20.
 
 | Year | Number of citations | Pub | Paper | Repo |
 | -------- |  -------- | -------- | -------- | -------- | 
+|2020.8.3|5277|CVPR|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)|[project page](https://github.com/bmild/nerf) |
 |2021.6.21|78|ACM Trans. Graph|[Real-time Neural Radiance Caching for Path Tracing](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing)|[project page](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing) |
 |2022.1.16|1332|ACM Trans. Graph|[Instant neural graphics primitives with a multiresolution hash encoding](https://arxiv.org/abs/2201.05989)|[project page](https://nvlabs.github.io/instant-ngp/)|
 |2022.6.30|98|CVPR|[MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures](https://arxiv.org/abs/2208.00277)| [project page](http://mobile-nerf.github.io/)|
